@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32090'
     url: http://www.gutenberg.org/2009/agents/32090
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26548#The-Tale-of-a-Trooper
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2008-09-06'
 gutenberg_type: Text
